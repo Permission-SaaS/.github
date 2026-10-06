@@ -29,3 +29,9 @@ docker compose up -d --build
 
 **Stack:** Java 21 · Spring Boot 4.1 · Spring Data JPA · PostgreSQL 16 · Flyway · Spring Modulith ·
 Spring Cloud OpenFeign · Spring Cloud Config · RabbitMQ · Spring Batch · Docker Compose · Maven
+
+## Licença
+
+Todos os direitos reservados a Jairo Williams Guedes Lopes Neto. Os repositórios são públicos só para
+consulta e avaliação; cada um tem o seu `LICENSE`. Para reportar uma falha de segurança, veja a
+[política de segurança](https://github.com/Permission-SaaS/.github/blob/main/SECURITY.md).
